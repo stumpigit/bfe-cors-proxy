@@ -1,2 +1,6 @@
+*.swp
+*.tmp
+*.log
 
-node_modules
+coverage/
+node_modules/
